@@ -1,4 +1,3 @@
-// +build codegen
 
 // Package api represents API abstractions for rendering service generated files.
 package api

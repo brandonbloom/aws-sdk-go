@@ -1,4 +1,3 @@
-// +build codegen
 
 package api
 

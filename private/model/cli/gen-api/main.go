@@ -1,4 +1,3 @@
-// +build codegen
 
 // Command aws-gen-gocli parses a JSON description of an AWS API and generates a
 // Go file containing a client for the API.
